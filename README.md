@@ -1,0 +1,2 @@
+# werrors
+golang errors libraray
